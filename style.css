@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(208, 220, 231);
+}
+
+.container{
+    width: 20vw;
+    height: 35vh;
+    color: #1a1818;
+    background-color: rgb(178, 201, 201);
+    text-align: center;
+    gap: 55vw;
+}
+    
+    
+

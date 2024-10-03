@@ -1,0 +1,129 @@
+[{
+    "id":"0",
+    "casa de produccion":"DC Entertainment",
+    "name":"Superman",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/01-superman_595m.960.jpg",
+    "hability":["super fuerza","vuelo","velocidad"],
+    "history": "Superman (cuyo nombre kryptoniano es Kal-El y su nombre terrestre es Clark Kent, o Clark Joseph Kent), es el superhéroe, personaje principal y protagonista principal de la Superman serie de cómics, creado por Jerry Siegel y Joe Shuster, tuvo su primera aparición en Action Comics Vol.1 1 en Junio de 1938, siendo el primer héroe de ficción creado para una historieta. Como personaje, se nos relata cómo Kal-El, un bebé nacido en el planeta Krypton, fue lanzado en un cohete hacia la Tierra desde el planeta condenado a su inminente destrucción, el infante Kal-El aterrizó cerca del pueblo de Smallville, Kansas, donde fue criado por Jonathan y Martha Kent, una pareja de granjeros que encontró la nave estrellada. Ellos dotaron a su hijo adoptivo de un fuerte sentido de la compasión que un día beneficiaría al mundo entero"
+},
+{   
+    "id" :"1",
+    "casa de produccion":"DC Entertainment",
+    "name":"Batman",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/02-batman_ntp8.960.jpg",
+    "hability":["detective","intelecto nivel genio","dominio de artes marciales"],
+    "history" :"Batman es la identidad secreta de Bruce Wayne, un empresario multimillonario, galán y filántropo. Presenció el asesinato de sus padres cuando era niño lo marcó profundamente y lo llevó a entrenarse en la perfección física e intelectual para ponerse un disfraz de murciélago con el fin de combatir el crimen."
+
+},
+{
+    "id" :"2",
+    "casa de produccion":"DC Entertainment",
+    "name":"Wonder woman",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/03-wonder-woman_qst1.960.jpg",
+    "hability":["super fuerza","resistencia","velocidad","vuelo"],
+    "history" : "Diana de Themyscira es una princesa Amazónica, hija de Zeus y la Reina Hipólita, que se desempeña como una emisora y embajadora de Themyscira que se encarga de llevar la paz al mundo exterior, y una miembro fundadora de la Liga de la Justicia. Ella fue creada como la Mata Dioses, el arma definitiva para eliminar a Ares, sin embargo, Hipólita le ocultó su verdadero origen por mucho tiempo. Ella eventualmente dejó Themyscira para ayudar a los aliados en la Primera Guerra Mundial como la Mujer Maravilla, uniéndose a los Hombres Maravilla junto a Steve Trevor, derrotando a Erich Ludendorff, Isabel Maru y eliminando al mismo Ares con su poder."
+
+},
+{
+    "id" :"3",
+    "casa de produccion":"DC Entertainment",
+    "name":"Flash",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/08-barry-allen_bk19.960.jpg",
+    "hability":["superar la velocidad de la luz","violar las leyes de la fisica","piensa rapido"],
+    "history" : "Flash (conocido también como The Flash y traducido en español: Destello) es el nombre de varios superhéroes ficticios que aparecen en los cómics estadounidenses publicados por DC Comics. Creado por el escritor Gardner Fox y el artista Harry Lampert, el Flash original apareció por primera vez en Flash Comics #1 (fecha de portada de enero de 1940 / mes de noviembre de 1939)​ Apodado el Corredor Escarlata, todas las encarnaciones de Flash poseen súper velocidad, que incluye la capacidad de correr, moverse y pensar extremadamente rápido, también puede atravesar la materia sólida, usar reflejos sobrehumanos y aparentemente violar ciertas leyes de la física, como superar la velocidad de la luz."
+
+
+},
+{
+    "id" :"4",
+    "casa de produccion":"DC Entertainment",
+    "name":"Aquaman",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/10-aquaman_shc1.960.jpg",
+    "hability":["Adaptacion acuatica-anfibia","Factor de curacion","Fuerza"],
+    "history" : "Arthur Curry es un hombre nacido de la unión entre Tom Curry, un cuidador de un faro, y Atlanna, una reina de la ciudad submarina de Atlantis. Esta conexión única con dos mundos, la superficie y el océano profundo, dotó a Arthur de habilidades extraordinarias, convirtiéndolo en el maestro de los mares."
+
+},
+{
+    "id" :"5",
+    "casa de produccion":"DC Entertainment",
+    "name":"Supergirl",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/17-supergirl_uz2b.960.jpg",
+    "hability":["Super fuerza","Velocidad","Congelar cosas con su aliento"],
+    "history" : "Kara es la prima de Superman, hija de Zor-El y Alura. De hecho es mayor que Superman, pues cuando este era un bebé, ella ya era una adolescente. Cuando Brainiac atacó Krypton, se llevó la Ciudad de Kandor, mientras Kara y sus padres permanecieron en Argo City. Tras el ataque, Zor-El creó un campo de fuerza alrededor de Argo usando una sonda de Brainiac. Cuando este regresó para consumir Argo, sus padres la enviaron en un cohete a la Tierra. Sin embargo, el cohete quedó atrapado en un meteorito de Kryptonita, con lo que llegó a la Tierra años después de que su primo lo hiciera.Kara fue localizada por Batman que la entregó a Superman, y pasó a ser entrenada por Wonder Woman. Fue capturada por Darkseid que ejerció un lavado de cerebro sobre la joven, para que atacara a su primo. Superman la derrotó y llevó de vuelta a la Tierra, donde fingió la muerte de Kara, para que Darkseid no la persiguiera.Supergirl"
+
+},
+{
+    "id" :"6",
+    "casa de produccion":"DC Entertainment",
+    "name":"Starfire",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/21-starfire_2wcn.960.jpg",
+    "hability":["Fuerza ","Proyeccion de energia","volar"],
+    "history" : "Historia. Starfire es la princesa del planeta Tamaran, Tamaran fue adquirida por The Citadel, gracias a su malvada hermana Blackfire (Komand'r), que proporcionó la información. Las condiciones de entrega incluyen la esclavitud de Starfire. Luego fue llevada a la Ciudadela por los Psions, que eran, si cabe, aún peor."
+
+},
+{
+    
+    "id" :"7",
+    "casa de produccion":"DC Entertainment",
+    "name":"Hawkgirl",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/22-hawkgirl_2f6c.960.jpg",
+    "hability":["Poder de vuelo","Vision Aguda","Capacidad de curacion"],
+    "history" : "Chica Halcón (En ocasiones Mujer Halcón) es el nombre de un personaje ficticio, una super-heroína de DC Comics. Su primera aparición, creada por Gardner Fox y Dennis Neville, fue en Flash Comics # 1 (enero de 1940).Condenada a la misma maldición que el hombre destinado a ser su esposo, ambos terminan siempre re-encontrándose entre re-encarnaciones. A través de los tiempos ella ha adoptado personalidades como la exploradora alienígena Thanagariana Shayera Thal, la caza-recompensas Kate Cinnamon Manser del viejo oeste, Lady Celia Penbrook, noble británica en el medievo, la princesa egipcia Chay-Ara, entre muchas otras."
+    
+},
+{
+    "id" :"8",
+    "casa de produccion":"DC Entertainment",
+    "name":"Booster Gold",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/19-booster-gold_cv4e.960.jpg",
+    "hability":["Tecnologia avanzada que permite vuelo","Viaje en el vuelo","Campo de fuerza"],
+    "history" : "Booster Gold es un personaje ficticio, un superhéroe involuntariamente cómico venido del futuro en DC Comics. Su primera aparición fue en Booster Gold #1 (febrero de 1986) y fue creado por Dan Jurgens.Michael fue expulsado de la liga de su deporte por vender juegos para pagar los muy requeridos medicamentos para su madre. No teniendo futuro y estancado como guardia de seguridad en el museo de historia, descubrió artículos que pertenecieron a superhéroes de su pasado junto con un medio para viajar por el tiempo. Su primera idea fue hacerse millonario volviéndose al heroísmo para venderse como marca comercial. Con el tiempo, llegó a ser un combatiente contra el crimen más centrado y compañero de aventuras de Escarabajo Azul."
+
+},
+{
+    "id" :"9",
+    "casa de produccion":"DC Entertainment",
+    "name":"Batgirl",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/15-batgirl_ezph.960.jpg",
+    "hability":["Poder de vuelo","Vision Aguda","Capacidad de curacion"],
+    "history" :"Hija de una familia mafiosa, Helena fue secuestrada a los cinco años por una familia rival. Durante el secuestro fue violada, lo cual la marcó para toda la vida. Su familia fue asesinada durante una guerra entre mafias. Durante la historia No Man's Land a finales de los años 90, una nueva Batgirl emergió."
+},
+{
+    "id" :"10",
+    "casa de produccion":"DC Entertainment",
+    "name":"linterna verde",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/14-kyle-rayner_bkkp.960.jpg",
+    "hability":["Construcciones solida de luz","Volar","Invulnerabilidad"],
+    "history" :"Harold Jordan, nació en Ciudad Costera, el nombre de sus padres son Martin Jordan y Jessica Jordan.A una edad muy temprana, tuvo que enfrentarse a sus mayores miedos cuando su padre murió en un accidente aéreo. A pesar de los deseos de su familia, enfrentó el trauma y siguió los pasos de su padre como piloto de pruebas y con el tiempo, se volvió un remplazo oficial para suposición.El anillo de poder eligió a Hal Jordan por su habilidad para superar un gran temor. El anillo de Linterna Verde y sus habilidades le fueron explicados a él en persona, y él heredó el manto de Linterna Verde tras la muerte de Abin-Sur. Actuando como un agente de policía inter-galáctica, era su trabajo servir y proteger toda su vida el Sector 2814, el sector al que también pertenece el planeta Tierra."
+},
+{
+
+    "id" :"11",
+    "casa de produccion":"DC Entertainment",
+    "name":"Shazam",
+    "img" : "https://sm.ign.com/t/ign_es/screenshot/default/09-shazam_uznh.960.jpg",
+    "hability":["Construcciones solida de luz","Volar","Invulnerabilidad"],
+    "history" :"Capitan Marvel es el mortal mas poderoso de la tierra. Originalmente, era un huerfano llamado Billy Baston, quien fue elegido por el mago Shazam para ser el campeon del bien. Shazam le dio a Billy con el poder de seis figuras legendarias griegas, y cuando habló el nombre del asistente, se convirtió en un superhéroe adulto autorizado por seis figuras legendarias griegas. Más tarde, el Capitán Marvel ganaría la posibilidad de compartir su poder con Mary Marvel y el Capitán Marvel Jr., creando así a la Familia Marvel. Hoy en día, el Capitán Marvel se mantiene como uno de los héroes más grandes del mundo."
+},
+{
+    "id" :"12",
+    "casa de produccion":"marvel",
+    "name":"Capitan",
+    "img" : "https://static.wikia.nocookie.net/disney/images/f/fa/Captain-America-AOU-Render.png/revision/latest?cb=20180420015558&path-prefix=es",
+    "hability":["Fuerza","Reflejos","curación Acelerada"],
+    "history" :"Capitan Marvel es el mortal mas poderoso de la tierra. Originalmente, era un huerfano llamado Billy Baston, quien fue elegido por el mago Shazam para ser el campeon del bien. Shazam le dio a Billy con el poder de seis figuras legendarias griegas, y cuando habló el nombre del asistente, se convirtió en un superhéroe adulto autorizado por seis figuras legendarias griegas. Más tarde, el Capitán Marvel ganaría la posibilidad de compartir su poder con Mary Marvel y el Capitán Marvel Jr., creando así a la Familia Marvel. Hoy en día, el Capitán Marvel se mantiene como uno de los héroes más grandes del mundo."
+},
+{
+    "id" :"13",
+    "casa de produccion":"marvel",
+    "name":"Capitan",
+    "img" : "https://static.wikia.nocookie.net/disney/images/f/fa/Captain-America-AOU-Render.png/revision/latest?cb=20180420015558&path-prefix=es",
+    "hability":["Fuerza","Reflejos","curación Acelerada"],
+    "history" :"El Capitán Steven Grant Steve Rogers es un veterano de la Segunda Guerra Mundial, miembro fundador de los Vengadores y el primer superhéroe del mundo. Rogers tenía problemas de salud, sin embargo, después de que el Proyecto Renacimiento lo convirtió en el Capitán América, ayudó a los Aliados a ganar la Segunda Guerra Mundial atacando las instalaciones de HYDRA junto a los Comandos Aulladores, convirtiéndose en una leyenda viviente debido a sus hazañas. Rogers mantuvo una relación con Margaret Carter, pero tras perder a su mejor amigo, James Barnes, en la captura de Arnim Zola, Rogers lo vengó derrotando al líder de HYDRA, Johann Schmidt, no obstante, él se estrelló en el Ártico, permaneciendo congelado durante siete décadas."
+
+}
+
+
+
+
+]
