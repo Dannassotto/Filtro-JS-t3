@@ -3,15 +3,12 @@ const Datas = "./json/main.json"
 
 fetch(Datas)
 .then(response =>{
-    if(!response.ok){
-        throw new Error('error' + response.status);
-    }
     return response.json();
 })
 
 
 .then(Data =>{
-    const container = document.getElementById('info')
+    const container = document.getElementById('DC')
     
     Data.forEach(item => {
         const div = document.createElement('div')

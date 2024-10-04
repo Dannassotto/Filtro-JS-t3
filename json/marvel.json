@@ -1,0 +1,50 @@
+[
+    {
+        "id" :"1",
+        "casa de produccion":"marvel",
+        "name":"Spiderman",
+        "img" : "https://cdn.alfabetajuega.com/alfabetajuega/2020/12/spider-man.jpg?width=1200",
+        "hability":["Fuerza","Reflejos","curación Acelerada"],
+        "history" :"Peter Parker es un joven que está a punto de graduarse y se convierte en Spider-Man de la noche a la mañana. Obtiene poderes excepcionales tras la picadura de una araña, lo que le obliga a adaptar su vida cotidiana con sus nuevas obligaciones como superhéroe de la ciudad de Nueva York. El primer amor de Peter es Mary Jane, una joven que quiere ser actriz. Los cómics enseñan muchas facetas de la vida de Peter como sus relaciones, la ausencia de sus padres o la pérdida de su tío Ben. Gracias al éxito del trepamuros, sus villanos tomaron mayor relevancia siendo el Duende Verde uno de los más conocidos."
+    },
+    {
+        "id" :"2",
+        "casa de produccion":"marvel",
+        "name":"Iron Man",
+        "img" : "https://cdn.alfabetajuega.com/alfabetajuega/2020/07/1366_2000.jpeg?width=1200",
+        "hability":["Fuerza","Reflejos","curación Acelerada"],
+        "history" :"Si el Capi es intocable, Iron Man también lo es. Tony Stark ha sido comparado en infinidad de ocasiones con Bruce Wayne (Batman) por tener rasgos en común. Generalmente los superhéroes tienen poderes inherentes, pero Tony es un multimillonario muy inteligente que se ha creado a sí mismo. Como científico fue secuestrado para crear un arma de destrucción masiva, pero él diseñó una armadura muy poderosa para escapar de sus secuestradores. A lo largo de los años, Stark ha mejorado la armadura para añadir nuevas armas y otras características. Existe una pequeña y sana rivalidad con el Capitán América, que ha traspasado la pantalla."
+    },
+    {
+        "id" :"3",
+        "casa de produccion":"marvel",
+        "name":"Viuda Negra",
+        "img" : "https://cdn.alfabetajuega.com/alfabetajuega/2018/10/alfabetajuega-viuda-negra-03062018.jpg?width=1200",
+        "hability":["Fuerza","Reflejos","curación Acelerada"],
+        "history" :"También conocida como Natasha Romanoff, tiene una historia desgarradora. Si no lo impiden más retrasos la película individual de Viuda Negra se estrenará en 2021 para profundizar en los orígenes del personaje. Romanoff nació en Stalingrado y fue entrenada para ser una espía soviética. Inicialmente se presentó como un personaje antagonista en los cómics, que se enfrentaba a Iron Man. Su amor por Ojo de Halcón hace que intente desertar de la Unión Soviética y conseguir la nacionalidad americana. Finalmente no sólo lo conseguirá sino que se unirá a los Vengadores con quienes comenzará a colaborar."
+
+
+
+    },
+    {
+        "id" :"4",
+        "casa de produccion":"marvel",
+        "name":"Deadpool",
+        "img" : "https://cdn.alfabetajuega.com/alfabetajuega/2019/07/image-1.jpg?width=1200",
+        "hability":["Fuerza","Reflejos","curación Acelerada"],
+        "history":"ambién está considerado un antihéroe, un mercenario que tocó fondo y ahora persigue a los criminales con dudosos métodos. Wade Winston es un joven que tiene cáncer terminal, pero no se rinde y decide formar parte de un programa militar del gobierno conocido como Proyecto Arma-X. En principio esto le convertirá en un super hombre y le curará el cáncer, pero el experimento no sale bien. Deadpool es desfigurado por completo y aunque es capaz de regenerar su cuerpo es un proceso muy doloroso. Su personalidad cambia, así que ahora es psicótico y se vuelve mentalmente inestable. Este personaje rompe continuamente la cuarta pared y por eso conectó muy rápido con el público general."
+        
+
+    },
+    {
+        "id" :"4",
+        "casa de produccion":"marvel",
+        "name":"Deadpool",
+        "img" : "https://cdn.alfabetajuega.com/alfabetajuega/2019/07/image-1.jpg?width=1200",
+        "hability":["Fuerza","Reflejos","curación Acelerada"]
+
+    }
+       
+]
+
+        
